@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+<<<<<<< HEAD
     <wb-module deploy-name="ygig">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
         <property name="context-root" value="ygig"/>
         <property name="java-output-path" value="/ygig/build/classes"/>
+=======
+    <wb-module deploy-name="ruaruaura">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="ruaruaura"/>
+        <property name="java-output-path" value="/ruaruaura/build/classes"/>
+>>>>>>> branch 'master' of https://github.com/17630859150/geiyepa.git
     </wb-module>
 </project-modules>
